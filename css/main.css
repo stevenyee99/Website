@@ -1,0 +1,35 @@
+h1 {
+    background : orange;
+    width: 60%;
+}
+h2 {
+    background : orange;
+    width: 60%;
+}
+
+#most_of_body {
+    background : #5D8AA8;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 25px;
+    padding-left: 80px;
+    width: 40%; 
+    float: left;
+}
+
+#sidebar {
+    background : orange;
+    padding-top: 30px;
+    padding-right: 10px;
+    padding-bottom: 25px;
+    padding-left: 20px;
+    width: 8%;
+    height: 200%;
+    float: left;
+}
+
+button {
+   position: relative;
+   left: 325px;
+    
+}
